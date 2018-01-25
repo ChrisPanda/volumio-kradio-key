@@ -1,5 +1,7 @@
 {
-  "description": "Korean Radio URI Key",
+  "description": "Korea radio station crypto key for listening",
   "secretKey": "ckvosejfkeldh",
-  "algorithm": "aes-256-ctr"
+  "stationKey": "N2QxZmY0ZWE=",
+  "algorithm": "aes-256-ctr",
+  "algorithm2": "des-ecb"
 }
